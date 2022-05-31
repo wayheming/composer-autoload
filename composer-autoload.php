@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: аAutoload test
- * Plugin URI: https://www.mywebsite.com
- * Description: Just another contact form plugin. Simple but flexible.
+ * Plugin Name: Autoload test composer
+ * Plugin URI: https://mywebsite.com
+ * Description: Empty.
  * Author: Ernest Beginov
  * Version: 0.0.1
- * Author URI: https://www.mywebsite.com
+ * Author URI: https://mywebsite.com
  */
 
 require 'vendor/autoload.php';
