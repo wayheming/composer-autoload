@@ -1,0 +1,8 @@
+{
+	"autoload": {
+		"files": ["some-test-file.php", "includes/some-test-file-2.php"],
+		"psr-4": {
+			"Plugin\\Includes\\": "includes"
+		}
+	}
+}
